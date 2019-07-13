@@ -1,0 +1,32 @@
+{  
+   "user":"anshul",
+   "id":"1234abcd",
+   "statements":[  
+      {  
+         "month":"July",
+         "transactions":[  
+            {  
+               "20-02-2019:18:00:00":{  
+                  "value":"23.00",
+                  "currency":"GBP",
+                  "place":"London"
+               }
+            },
+            {  
+               "20-02-2019:20:00:00":{  
+                  "value":"13.00",
+                  "currency":"GBP",
+                  "place":"London"
+               }
+            },
+            {  
+               "20-02-2019:19:00:00":{  
+                  "value":"2.00",
+                  "currency":"GBP",
+                  "place":"London"
+               }
+            }
+         ]
+      }
+   ]
+}
